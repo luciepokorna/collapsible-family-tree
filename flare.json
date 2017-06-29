@@ -10,7 +10,12 @@
       {
         "name": "Josef Ročňák",
         "children": [
-         {"name": "Antonín Ročňák"},
+         {"name": "Antonín Ročňák",
+           "children": [
+            {"name": "František Ročňák"},
+            {"name": "Antonie Ročňáková, roz. ? "}
+           ]
+         },
          {"name": "Emilie Ročňáková, roz. Chvojková"}
         ]
       },
@@ -20,7 +25,16 @@
     {
      "name": "Eliška Ročňáková, roz. Jelínková",
      "children": [
-      {"name": "Josef Jelínek", "size": 353},
+      {"name": "Josef Jelínek",
+        "children": [
+         {"name": "Vincenc Jelínek",
+           "children": [
+            {"name": "Václav Jelínek", "size": 353},
+            {"name": "Anna Jelínková, roz. Tučková", "size": 5731}
+           ]},
+         {"name": "Františka Jelínková, roz. Králíková", "size": 5731}
+        ]
+      },
       {"name": "Eliška Jelínková, roz. Loskotová", "size": 5731}
      ]
     }
@@ -33,7 +47,11 @@
     {
      "name": "Jiřina Lukášová, roz. Simonová",
      "children": [
-      {"name": "Bohuslav Simon", "size": 1983},
+      {"name": "Bohuslav Simon",
+        "children": [
+         {"name": "Antonín Simon", "size": 1983},
+         {"name": "Františka Simonová, roz. ?", "size": 2047}
+        ]},
       {"name": "Marie Boukalová, vd. Simonová, roz. Pešková", "size": 2047}
      ]
     }
