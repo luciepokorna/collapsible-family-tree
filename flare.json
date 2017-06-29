@@ -1,0 +1,43 @@
+{
+ "name": "Lucie",
+ "children": [
+  {
+   "name": "Jaromír Ročňák",
+   "children": [
+    {
+     "name": "Jaromír Ročňák",
+     "children": [
+      {
+        "name": "Josef Ročňák",
+        "children": [
+         {"name": "Antonín Ročňák"},
+         {"name": "Emilie Ročňáková, roz. Chvojková"}
+        ]
+      },
+      {"name": "Marie Ročňáková, roz. Chourová", "size": 3812}
+     ]
+    },
+    {
+     "name": "Eliška Ročňáková, roz. Jelínková",
+     "children": [
+      {"name": "Josef Jelínek", "size": 353},
+      {"name": "Eliška Jelínková, roz. Loskotová", "size": 5731}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Jiřina Ročňáková, roz. Lukášová",
+   "children": [
+     {"name": "Ondřej Lukáš", "size": 17010},
+    {
+     "name": "Jiřina Lukášová, roz. Simonová",
+     "children": [
+      {"name": "Bohuslav Simon", "size": 1983},
+      {"name": "Marie Boukalová, vd. Simonová, roz. Pešková", "size": 2047}
+     ]
+    }
+   ]
+  }
+ ]
+}
